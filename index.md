@@ -20,6 +20,14 @@
   <img src=https://deliveryti.com/images/logo.png width="199" height="135">
 </div>
 
-
 <hr />
 
+### Step 3 - Adding code blocks.
+
+```
+//this is a code block example on Github
+
+<h3>Code Block</h3>
+```
+
+<hr />
