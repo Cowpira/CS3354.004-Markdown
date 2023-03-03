@@ -7,7 +7,6 @@
 ###### This is a small header
 
 <hr />
-
 ### Step 2 - Work adding image and description.
 <div align="center">
   
@@ -21,7 +20,6 @@
 </div>
 
 <hr />
-
 ### Step 3 - Adding code blocks.
 
 ```
@@ -31,3 +29,12 @@
 ```
 
 <hr />
+### Step 4 - Adding task list.
+
+##### Courses done at UTD
+
+- [X] CS 3323
+- [X] CS 3390
+- [ ] CS 4321
+- [X] CS 2726
+- [ ] CS 373
